@@ -1,14 +1,4 @@
----
-home: true
-permalink: /
-pageClass: my
-heroImage: "./book.png"
-# actionText: 张努力
-footer: MIT Licensed | Copyright © 2019  张努力
-meta:
-  - name: keywords
-    content: 一个热爱文学的伪程序猿，张努力，Node，webpack，JavaScript，爱好者，博客
----
+
 
 **😏** **最新文章**
 
